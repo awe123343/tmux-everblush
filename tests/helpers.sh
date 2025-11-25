@@ -4,7 +4,7 @@
 # First argument is the option name, e.g. @catppuccin_flavor.
 #
 # Usage: `get_option @catppuccin_flavor`
-# Would return: `mocha`
+# Would return: `everblush`
 #
 # The option is given as a format string.
 get_option() {
@@ -18,7 +18,7 @@ get_option() {
 # First argument is the option name, e.g. @catppuccin_flavor.
 #
 # Usage: `print_option @catppuccin_flavor`
-# Would print: `@catppuccin_flavor mocha`
+# Would print: `@catppuccin_flavor everblush`
 #
 # The option is given as a format string.
 print_option() {
