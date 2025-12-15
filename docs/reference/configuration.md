@@ -6,9 +6,9 @@ This is a diagram of how the theme is split between its components.
 
 ### Top Level Options
 
-| Option               | Effect                                                                         |
-| -------------------- | ------------------------------------------------------------------------------ |
-| `@catppuccin_flavor` | Sets the catppuccin flavor, one of "latte", "frappe", "macchiato", or "mocha". |
+| Option               | Effect                                                                                      |
+| -------------------- | ------------------------------------------------------------------------------------------- |
+| `@catppuccin_flavor` | Sets the catppuccin flavor, one of "everblush", "latte", "frappe", "macchiato", or "mocha". |
 
 ### Status Line
 
