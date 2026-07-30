@@ -1,1 +1,1 @@
-E:@catppuccin_status_ram #[fg=#f9e2af]#[fg=#11111b,bg=#f9e2af] #[fg=#{ram_fg_color},bg=#{ram_bg_color}] #{ram_percentage}#[fg=#{ram_bg_color}]
+E:@catppuccin_status_ram #[fg=#e5c76b]#[fg=#0c1012,bg=#e5c76b] #[fg=#{ram_fg_color},bg=#{ram_bg_color}] #{ram_percentage}#[fg=#{ram_bg_color}] 
